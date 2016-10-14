@@ -4,8 +4,10 @@ Versao simples do GameOfLife em clojurescript.
 
 ## Overview
 
-Algoritmo utilizado
+Algoritmo utilizado:
 http://gotocon.com/dl/goto-cph-2011/slides/ChristopheGrand_IntroToTheClojureSpirit.pdf
+
+Não utilizo o AnimationFrameRequest que melhoraria o numero de FPS.
 
 ## Setup
 
